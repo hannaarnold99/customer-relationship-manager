@@ -1,5 +1,12 @@
 # Customer Relationship Manager
+
 This application was created using Django, HTML5, CSS, and Bootstrap. It's purpose is to display a list of customers from a database, and the admin can view each customer's record, update the record, or delete the record from the database. 
+
+<img width="1437" alt="crm_index jpeg" src="https://github.com/hannaarnold99/customer-relationship-manager/assets/145307349/3a5b0370-1a3f-428e-b8e6-8adbf5e4ddd0">
+
+<img width="1437" alt="crm_add jpeg" src="https://github.com/hannaarnold99/customer-relationship-manager/assets/145307349/b0f8622a-8d1f-46a5-a592-e410a93fd872">
+
+
 
 ## Installation
 #### *Python must be installed on your device.*
